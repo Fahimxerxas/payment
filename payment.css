@@ -113,3 +113,20 @@ body {
 .dropdown-item:hover{
     background-color: white!important;
 }
+
+
+
+
+@media (min-width: 278px) and (max-width:290px){
+.select-icon {
+    width: 30px;
+    margin-left: 17px;
+}
+}
+
+@media (min-width: 318px) and (max-width:329px){
+    .select-icon {
+    width: 30px;
+    margin-left: 40px;
+}
+}
